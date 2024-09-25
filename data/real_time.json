@@ -33837,6 +33837,895 @@
             "available_bike_stands": 11,
             "total_bike_stands": 19,
             "last_update": "2024-09-25 17:31:38"
+        },
+        {
+            "number": 385,
+            "available_bikes": 3,
+            "available_bike_stands": 5,
+            "total_bike_stands": 8,
+            "last_update": "2024-09-25 17:33:27"
+        },
+        {
+            "number": 195,
+            "available_bikes": 1,
+            "available_bike_stands": 17,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:25"
+        },
+        {
+            "number": 29,
+            "available_bikes": 2,
+            "available_bike_stands": 15,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:29"
+        },
+        {
+            "number": 156,
+            "available_bikes": 0,
+            "available_bike_stands": 13,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:32:58"
+        },
+        {
+            "number": 224,
+            "available_bikes": 3,
+            "available_bike_stands": 16,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:23"
+        },
+        {
+            "number": 229,
+            "available_bikes": 4,
+            "available_bike_stands": 13,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:32:46"
+        },
+        {
+            "number": 96,
+            "available_bikes": 10,
+            "available_bike_stands": 14,
+            "total_bike_stands": 24,
+            "last_update": "2024-09-25 17:33:28"
+        },
+        {
+            "number": 384,
+            "available_bikes": 3,
+            "available_bike_stands": 10,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:33:07"
+        },
+        {
+            "number": 334,
+            "available_bikes": 3,
+            "available_bike_stands": 8,
+            "total_bike_stands": 11,
+            "last_update": "2024-09-25 17:33:17"
+        },
+        {
+            "number": 295,
+            "available_bikes": 1,
+            "available_bike_stands": 12,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:33:23"
+        },
+        {
+            "number": 144,
+            "available_bikes": 13,
+            "available_bike_stands": 9,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:33:23"
+        },
+        {
+            "number": 40,
+            "available_bikes": 3,
+            "available_bike_stands": 13,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:32:56"
+        },
+        {
+            "number": 371,
+            "available_bikes": 11,
+            "available_bike_stands": 2,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:33:04"
+        },
+        {
+            "number": 329,
+            "available_bikes": 7,
+            "available_bike_stands": 5,
+            "total_bike_stands": 12,
+            "last_update": "2024-09-25 17:33:33"
+        },
+        {
+            "number": 139,
+            "available_bikes": 0,
+            "available_bike_stands": 21,
+            "total_bike_stands": 21,
+            "last_update": "2024-09-25 17:33:14"
+        },
+        {
+            "number": 60,
+            "available_bikes": 15,
+            "available_bike_stands": 7,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:32:54"
+        },
+        {
+            "number": 36,
+            "available_bikes": 17,
+            "available_bike_stands": 2,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:28"
+        },
+        {
+            "number": 53,
+            "available_bikes": 1,
+            "available_bike_stands": 20,
+            "total_bike_stands": 21,
+            "last_update": "2024-09-25 17:33:33"
+        },
+        {
+            "number": 358,
+            "available_bikes": 13,
+            "available_bike_stands": 0,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:33:18"
+        },
+        {
+            "number": 121,
+            "available_bikes": 6,
+            "available_bike_stands": 11,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:19"
+        },
+        {
+            "number": 304,
+            "available_bikes": 1,
+            "available_bike_stands": 9,
+            "total_bike_stands": 10,
+            "last_update": "2024-09-25 17:33:21"
+        },
+        {
+            "number": 192,
+            "available_bikes": 2,
+            "available_bike_stands": 18,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:32:57"
+        },
+        {
+            "number": 48,
+            "available_bikes": 3,
+            "available_bike_stands": 27,
+            "total_bike_stands": 30,
+            "last_update": "2024-09-25 17:32:52"
+        },
+        {
+            "number": 266,
+            "available_bikes": 7,
+            "available_bike_stands": 11,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:32:43"
+        },
+        {
+            "number": 166,
+            "available_bikes": 10,
+            "available_bike_stands": 8,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:32:41"
+        },
+        {
+            "number": 135,
+            "available_bikes": 2,
+            "available_bike_stands": 13,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:32:42"
+        },
+        {
+            "number": 1031,
+            "available_bikes": 12,
+            "available_bike_stands": 7,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:28"
+        },
+        {
+            "number": 118,
+            "available_bikes": 6,
+            "available_bike_stands": 7,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:33:05"
+        },
+        {
+            "number": 341,
+            "available_bikes": 6,
+            "available_bike_stands": 6,
+            "total_bike_stands": 12,
+            "last_update": "2024-09-25 17:33:31"
+        },
+        {
+            "number": 68,
+            "available_bikes": 0,
+            "available_bike_stands": 11,
+            "total_bike_stands": 11,
+            "last_update": "2024-09-25 17:33:09"
+        },
+        {
+            "number": 197,
+            "available_bikes": 5,
+            "available_bike_stands": 15,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:33:32"
+        },
+        {
+            "number": 336,
+            "available_bikes": 3,
+            "available_bike_stands": 10,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:32:55"
+        },
+        {
+            "number": 388,
+            "available_bikes": 6,
+            "available_bike_stands": 7,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:33:32"
+        },
+        {
+            "number": 273,
+            "available_bikes": 10,
+            "available_bike_stands": 7,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:32"
+        },
+        {
+            "number": 126,
+            "available_bikes": 2,
+            "available_bike_stands": 20,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:33:28"
+        },
+        {
+            "number": 233,
+            "available_bikes": 2,
+            "available_bike_stands": 16,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:25"
+        },
+        {
+            "number": 254,
+            "available_bikes": 5,
+            "available_bike_stands": 11,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:32:52"
+        },
+        {
+            "number": 21,
+            "available_bikes": 9,
+            "available_bike_stands": 14,
+            "total_bike_stands": 23,
+            "last_update": "2024-09-25 17:33:15"
+        },
+        {
+            "number": 62,
+            "available_bikes": 1,
+            "available_bike_stands": 18,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:01"
+        },
+        {
+            "number": 244,
+            "available_bikes": 13,
+            "available_bike_stands": 4,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:34"
+        },
+        {
+            "number": 24,
+            "available_bikes": 1,
+            "available_bike_stands": 21,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:32:52"
+        },
+        {
+            "number": 281,
+            "available_bikes": 1,
+            "available_bike_stands": 14,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:33:21"
+        },
+        {
+            "number": 228,
+            "available_bikes": 2,
+            "available_bike_stands": 14,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:32:55"
+        },
+        {
+            "number": 124,
+            "available_bikes": 13,
+            "available_bike_stands": 4,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:32:51"
+        },
+        {
+            "number": 11,
+            "available_bikes": 15,
+            "available_bike_stands": 7,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:33:29"
+        },
+        {
+            "number": 235,
+            "available_bikes": 3,
+            "available_bike_stands": 16,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:32:47"
+        },
+        {
+            "number": 271,
+            "available_bikes": 8,
+            "available_bike_stands": 9,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:32:38"
+        },
+        {
+            "number": 120,
+            "available_bikes": 4,
+            "available_bike_stands": 14,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:24"
+        },
+        {
+            "number": 362,
+            "available_bikes": 9,
+            "available_bike_stands": 4,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:33:00"
+        },
+        {
+            "number": 141,
+            "available_bikes": 13,
+            "available_bike_stands": 5,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:13"
+        },
+        {
+            "number": 202,
+            "available_bikes": 1,
+            "available_bike_stands": 16,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:32:41"
+        },
+        {
+            "number": 30,
+            "available_bikes": 2,
+            "available_bike_stands": 22,
+            "total_bike_stands": 24,
+            "last_update": "2024-09-25 17:33:32"
+        },
+        {
+            "number": 6,
+            "available_bikes": 0,
+            "available_bike_stands": 18,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:02"
+        },
+        {
+            "number": 213,
+            "available_bikes": 4,
+            "available_bike_stands": 13,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:18"
+        },
+        {
+            "number": 97,
+            "available_bikes": 7,
+            "available_bike_stands": 14,
+            "total_bike_stands": 21,
+            "last_update": "2024-09-25 17:32:52"
+        },
+        {
+            "number": 49,
+            "available_bikes": 5,
+            "available_bike_stands": 18,
+            "total_bike_stands": 23,
+            "last_update": "2024-09-25 17:33:00"
+        },
+        {
+            "number": 104,
+            "available_bikes": 6,
+            "available_bike_stands": 12,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:32:45"
+        },
+        {
+            "number": 129,
+            "available_bikes": 1,
+            "available_bike_stands": 14,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:33:33"
+        },
+        {
+            "number": 168,
+            "available_bikes": 6,
+            "available_bike_stands": 14,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:33:24"
+        },
+        {
+            "number": 247,
+            "available_bikes": 7,
+            "available_bike_stands": 7,
+            "total_bike_stands": 14,
+            "last_update": "2024-09-25 17:33:13"
+        },
+        {
+            "number": 241,
+            "available_bikes": 1,
+            "available_bike_stands": 15,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:32:53"
+        },
+        {
+            "number": 89,
+            "available_bikes": 5,
+            "available_bike_stands": 14,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:12"
+        },
+        {
+            "number": 366,
+            "available_bikes": 0,
+            "available_bike_stands": 13,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:32:56"
+        },
+        {
+            "number": 8,
+            "available_bikes": 3,
+            "available_bike_stands": 19,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:33:34"
+        },
+        {
+            "number": 277,
+            "available_bikes": 13,
+            "available_bike_stands": 5,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:32:38"
+        },
+        {
+            "number": 199,
+            "available_bikes": 2,
+            "available_bike_stands": 20,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:33:20"
+        },
+        {
+            "number": 223,
+            "available_bikes": 3,
+            "available_bike_stands": 18,
+            "total_bike_stands": 21,
+            "last_update": "2024-09-25 17:33:22"
+        },
+        {
+            "number": 10,
+            "available_bikes": 1,
+            "available_bike_stands": 41,
+            "total_bike_stands": 42,
+            "last_update": "2024-09-25 17:32:49"
+        },
+        {
+            "number": 35,
+            "available_bikes": 2,
+            "available_bike_stands": 22,
+            "total_bike_stands": 24,
+            "last_update": "2024-09-25 17:33:08"
+        },
+        {
+            "number": 250,
+            "available_bikes": 0,
+            "available_bike_stands": 17,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:32:52"
+        },
+        {
+            "number": 83,
+            "available_bikes": 4,
+            "available_bike_stands": 11,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:33:29"
+        },
+        {
+            "number": 171,
+            "available_bikes": 13,
+            "available_bike_stands": 3,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:33:07"
+        },
+        {
+            "number": 162,
+            "available_bikes": 9,
+            "available_bike_stands": 7,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:33:20"
+        },
+        {
+            "number": 138,
+            "available_bikes": 0,
+            "available_bike_stands": 19,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:32:55"
+        },
+        {
+            "number": 216,
+            "available_bikes": 4,
+            "available_bike_stands": 13,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:32:49"
+        },
+        {
+            "number": 194,
+            "available_bikes": 3,
+            "available_bike_stands": 17,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:33:11"
+        },
+        {
+            "number": 16,
+            "available_bikes": 9,
+            "available_bike_stands": 11,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:33:27"
+        },
+        {
+            "number": 324,
+            "available_bikes": 8,
+            "available_bike_stands": 0,
+            "total_bike_stands": 8,
+            "last_update": "2024-09-25 17:33:23"
+        },
+        {
+            "number": 169,
+            "available_bikes": 4,
+            "available_bike_stands": 13,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:31"
+        },
+        {
+            "number": 39,
+            "available_bikes": 1,
+            "available_bike_stands": 18,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:02"
+        },
+        {
+            "number": 306,
+            "available_bikes": 3,
+            "available_bike_stands": 9,
+            "total_bike_stands": 12,
+            "last_update": "2024-09-25 17:33:25"
+        },
+        {
+            "number": 258,
+            "available_bikes": 3,
+            "available_bike_stands": 15,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:29"
+        },
+        {
+            "number": 56,
+            "available_bikes": 2,
+            "available_bike_stands": 12,
+            "total_bike_stands": 14,
+            "last_update": "2024-09-25 17:33:21"
+        },
+        {
+            "number": 300,
+            "available_bikes": 7,
+            "available_bike_stands": 3,
+            "total_bike_stands": 10,
+            "last_update": "2024-09-25 17:33:30"
+        },
+        {
+            "number": 80,
+            "available_bikes": 4,
+            "available_bike_stands": 17,
+            "total_bike_stands": 21,
+            "last_update": "2024-09-25 17:33:14"
+        },
+        {
+            "number": 57,
+            "available_bikes": 1,
+            "available_bike_stands": 14,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:32:56"
+        },
+        {
+            "number": 285,
+            "available_bikes": 3,
+            "available_bike_stands": 15,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:29"
+        },
+        {
+            "number": 58,
+            "available_bikes": 2,
+            "available_bike_stands": 23,
+            "total_bike_stands": 25,
+            "last_update": "2024-09-25 17:33:09"
+        },
+        {
+            "number": 222,
+            "available_bikes": 1,
+            "available_bike_stands": 13,
+            "total_bike_stands": 14,
+            "last_update": "2024-09-25 17:33:21"
+        },
+        {
+            "number": 38,
+            "available_bikes": 3,
+            "available_bike_stands": 27,
+            "total_bike_stands": 30,
+            "last_update": "2024-09-25 17:33:04"
+        },
+        {
+            "number": 357,
+            "available_bikes": 0,
+            "available_bike_stands": 13,
+            "total_bike_stands": 13,
+            "last_update": "2024-09-25 17:32:52"
+        },
+        {
+            "number": 140,
+            "available_bikes": 3,
+            "available_bike_stands": 26,
+            "total_bike_stands": 29,
+            "last_update": "2024-09-25 17:33:25"
+        },
+        {
+            "number": 4,
+            "available_bikes": 3,
+            "available_bike_stands": 14,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:20"
+        },
+        {
+            "number": 237,
+            "available_bikes": 2,
+            "available_bike_stands": 17,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:33"
+        },
+        {
+            "number": 28,
+            "available_bikes": 2,
+            "available_bike_stands": 18,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:33:31"
+        },
+        {
+            "number": 286,
+            "available_bikes": 4,
+            "available_bike_stands": 8,
+            "total_bike_stands": 12,
+            "last_update": "2024-09-25 17:33:26"
+        },
+        {
+            "number": 320,
+            "available_bikes": 8,
+            "available_bike_stands": 3,
+            "total_bike_stands": 11,
+            "last_update": "2024-09-25 17:33:34"
+        },
+        {
+            "number": 206,
+            "available_bikes": 0,
+            "available_bike_stands": 17,
+            "total_bike_stands": 17,
+            "last_update": "2024-09-25 17:33:21"
+        },
+        {
+            "number": 251,
+            "available_bikes": 4,
+            "available_bike_stands": 8,
+            "total_bike_stands": 12,
+            "last_update": "2024-09-25 17:33:34"
+        },
+        {
+            "number": 226,
+            "available_bikes": 2,
+            "available_bike_stands": 14,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:33:26"
+        },
+        {
+            "number": 220,
+            "available_bikes": 0,
+            "available_bike_stands": 16,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:32:38"
+        },
+        {
+            "number": 78,
+            "available_bikes": 2,
+            "available_bike_stands": 12,
+            "total_bike_stands": 14,
+            "last_update": "2024-09-25 17:33:29"
+        },
+        {
+            "number": 230,
+            "available_bikes": 0,
+            "available_bike_stands": 18,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:03"
+        },
+        {
+            "number": 99,
+            "available_bikes": 5,
+            "available_bike_stands": 11,
+            "total_bike_stands": 16,
+            "last_update": "2024-09-25 17:32:37"
+        },
+        {
+            "number": 113,
+            "available_bikes": 0,
+            "available_bike_stands": 20,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:32:37"
+        },
+        {
+            "number": 133,
+            "available_bikes": 18,
+            "available_bike_stands": 4,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:32:53"
+        },
+        {
+            "number": 335,
+            "available_bikes": 2,
+            "available_bike_stands": 8,
+            "total_bike_stands": 10,
+            "last_update": "2024-09-25 17:32:36"
+        },
+        {
+            "number": 283,
+            "available_bikes": 9,
+            "available_bike_stands": 3,
+            "total_bike_stands": 12,
+            "last_update": "2024-09-25 17:33:23"
+        },
+        {
+            "number": 86,
+            "available_bikes": 4,
+            "available_bike_stands": 15,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:32:49"
+        },
+        {
+            "number": 34,
+            "available_bikes": 2,
+            "available_bike_stands": 20,
+            "total_bike_stands": 22,
+            "last_update": "2024-09-25 17:33:31"
+        },
+        {
+            "number": 119,
+            "available_bikes": 16,
+            "available_bike_stands": 7,
+            "total_bike_stands": 23,
+            "last_update": "2024-09-25 17:33:30"
+        },
+        {
+            "number": 350,
+            "available_bikes": 5,
+            "available_bike_stands": 5,
+            "total_bike_stands": 10,
+            "last_update": "2024-09-25 17:32:46"
+        },
+        {
+            "number": 130,
+            "available_bikes": 3,
+            "available_bike_stands": 9,
+            "total_bike_stands": 12,
+            "last_update": "2024-09-25 17:33:25"
+        },
+        {
+            "number": 12,
+            "available_bikes": 4,
+            "available_bike_stands": 5,
+            "total_bike_stands": 9,
+            "last_update": "2024-09-25 17:32:57"
+        },
+        {
+            "number": 43,
+            "available_bikes": 4,
+            "available_bike_stands": 15,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:07"
+        },
+        {
+            "number": 232,
+            "available_bikes": 15,
+            "available_bike_stands": 0,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:33:16"
+        },
+        {
+            "number": 61,
+            "available_bikes": 30,
+            "available_bike_stands": 6,
+            "total_bike_stands": 36,
+            "last_update": "2024-09-25 17:33:33"
+        },
+        {
+            "number": 378,
+            "available_bikes": 1,
+            "available_bike_stands": 10,
+            "total_bike_stands": 11,
+            "last_update": "2024-09-25 17:33:13"
+        },
+        {
+            "number": 165,
+            "available_bikes": 6,
+            "available_bike_stands": 9,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:33:19"
+        },
+        {
+            "number": 17,
+            "available_bikes": 9,
+            "available_bike_stands": 11,
+            "total_bike_stands": 20,
+            "last_update": "2024-09-25 17:33:28"
+        },
+        {
+            "number": 46,
+            "available_bikes": 6,
+            "available_bike_stands": 9,
+            "total_bike_stands": 15,
+            "last_update": "2024-09-25 17:33:22"
+        },
+        {
+            "number": 203,
+            "available_bikes": 6,
+            "available_bike_stands": 13,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:32"
+        },
+        {
+            "number": 311,
+            "available_bikes": 9,
+            "available_bike_stands": 2,
+            "total_bike_stands": 11,
+            "last_update": "2024-09-25 17:33:33"
+        },
+        {
+            "number": 145,
+            "available_bikes": 6,
+            "available_bike_stands": 13,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:33:17"
+        },
+        {
+            "number": 32,
+            "available_bikes": 0,
+            "available_bike_stands": 11,
+            "total_bike_stands": 11,
+            "last_update": "2024-09-25 17:32:39"
+        },
+        {
+            "number": 5,
+            "available_bikes": 7,
+            "available_bike_stands": 11,
+            "total_bike_stands": 18,
+            "last_update": "2024-09-25 17:33:15"
+        },
+        {
+            "number": 157,
+            "available_bikes": 9,
+            "available_bike_stands": 10,
+            "total_bike_stands": 19,
+            "last_update": "2024-09-25 17:32:57"
         }
     ]
 }

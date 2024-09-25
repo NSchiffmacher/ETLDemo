@@ -11,7 +11,7 @@ def plot_station(station_id: int, show_total: bool = False) -> None:
     if show_total:
         fig.add_trace(go.Scatter(x=df_data.index, y=df_data['total_bike_stands'], name='Total bikes'))
     fig.add_trace(go.Scatter(x=df_data.index, y=df_data['available_bikes'], name='Available bikes'))
-    fig.update_layout(yaxis_range=[-0.5,None], title=f"Station {station_id} real time data")
+    fig.update_layout(yaxis_range=[-0.5,None], title=f"Real-time data from station #{station_id}")
     fig.show()
 
 def plot_all() -> None:
