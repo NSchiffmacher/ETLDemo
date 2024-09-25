@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 from etl.load import DefaultStore
 
+
 def plot_station(station_id: int, show_total: bool = False) -> None:
     store = DefaultStore()
     df_data = store.get_station_real_time_data(station_id)
