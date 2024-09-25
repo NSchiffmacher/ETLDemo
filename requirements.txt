@@ -1,7 +1,4 @@
 requests
 schedule
-logging
-signal
 plotly
 pandas
-argparse
