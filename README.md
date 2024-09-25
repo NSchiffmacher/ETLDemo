@@ -18,31 +18,22 @@ The project is organized into multiple modules for each phase of the ETL process
 ```
 demo/
 │
-├── README.md               # Project documentation
-├── requirements.txt        # List of Python dependencies
-├── config/
-│   ├── config.yaml         # Configuration file (e.g., paths, DB settings)
-│   └── logging.conf        # Logging configuration
-│
-├── data/                   # Data directory
-│   ├── raw/                # Raw data input (e.g., CSV files)
-│   ├── processed/          # Processed/cleaned data
-│   └── output/             # Final output or loaded data
+├── data/                           # Data directory
+│   ├── real_time.json              # Real time data stored in JSON format (for debugging purposes)
 │
 ├── etl/
-│   ├── extract.py          # Code for extracting data
-│   ├── transform.py        # Code for transforming data
-│   ├── load.py             # Code for loading data
-│   └── utils.py            # Utility functions (config loading, etc.)
+│   ├── extract.py                  # Code for extracting data
+│   ├── transform.py                # Code for transforming data
+│   └── load.py                     # Code for loading data
 │
-├── logs/                   # Directory for log files
-│   └── etl.log             # ETL execution logs
+├── logs/                           # Directory for log files
+│   └── real_time_extraction.log    # ETL execution logs
 │
-├── scripts/
-│   ├── run_etl.py          # Script to run the ETL pipeline manually
-│   └── db_setup.py         # Optional script for setting up the database
-│
-└── main.py                 # Main entry point for the ETL pipeline
+├── README.md                       # Project documentation
+├── requirements.txt                # List of Python dependencies
+├── setup.py                        # Setup the log file(s) and DB
+├── visualize.py                    # Visualize the acquired data
+└── main.py                         # Main entry point for the ETL pipeline
 ```
 
 ---
@@ -82,6 +73,30 @@ Install the required Python packages by running:
 pip install -r requirements.txt
 ```
 
+### 4. Setup the project (DB and log files)
+
+```bash
+python scripts/setup.py
+```
+
 ## Usage 
 
-TODO
+### Data acquisition
+
+Simply the following command for as long as you want to acquire data.
+
+```bash
+python main.py
+```
+
+A log of what the tool is doing is available in `logs/real_time_extraction.log`.
+
+### Data visualization
+
+To view the data, the following commands are available. For example, the station "ISAE-CAMPUS" as a station_id of 224.
+
+```bash
+python visualize.py all # Will display all the data for all the stations
+python visualize.py station [station_id] # Will display the available bikes and total number of bike stands for station [station_id]
+python visualize.py station [station_id] --hide-total # Will display only the available bikes for station [station_id]
+```
