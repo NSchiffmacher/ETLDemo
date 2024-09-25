@@ -54,8 +54,8 @@ You will also need to install the required dependencies listed in the `requireme
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/etl_project.git
-cd etl_project
+git clone https://github.com/NSchiffmacher/ETLDemo.git
+cd ETLDemo
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
@@ -77,6 +77,14 @@ pip install -r requirements.txt
 
 ```bash
 python scripts/setup.py
+```
+
+### 5. Setup your JCDecaux API KEY
+
+An API key is required. As such, you need to create an account on the JCDecaux website and get an API key. Once you have your API key, you can set it as an environment variable.
+
+```bash
+export JCDECAUX_API_KEY="your_api_key"
 ```
 
 ## Usage 
