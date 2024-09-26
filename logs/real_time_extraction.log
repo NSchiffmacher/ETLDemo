@@ -1695,3 +1695,352 @@
 2024-09-25 23:08:31,018 - INFO - Extracted data from 375 stations, including 0 new observations
 2024-09-25 23:08:33,239 - INFO - Saved the data to the DB
 2024-09-25 23:08:41,628 - INFO - Extracted data from 375 stations, including 63 new observations
+2024-09-25 23:10:44,160 - INFO - Starting real time extraction pipeline
+2024-09-25 23:10:54,956 - INFO - Extracted data from 375 stations, including 173 new observations
+2024-09-25 23:11:05,718 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:11:16,461 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:11:27,158 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:11:37,880 - INFO - Extracted data from 375 stations, including 72 new observations
+2024-09-25 23:11:45,783 - INFO - Saved the data to the DB
+2024-09-25 23:11:49,469 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:12:00,201 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:12:10,939 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:12:21,681 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:12:32,357 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:12:43,009 - INFO - Extracted data from 375 stations, including 68 new observations
+2024-09-25 23:12:46,916 - INFO - Saved the data to the DB
+2024-09-25 23:12:54,590 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:13:05,325 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:13:15,969 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:13:26,587 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:13:37,377 - INFO - Extracted data from 375 stations, including 66 new observations
+2024-09-25 23:13:48,295 - INFO - Saved the data to the DB
+2024-09-25 23:13:49,031 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:13:59,702 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:14:10,519 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:14:21,245 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:14:31,965 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:14:42,699 - INFO - Extracted data from 375 stations, including 116 new observations
+2024-09-25 23:14:49,617 - INFO - Saved the data to the DB
+2024-09-25 23:14:54,324 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:15:04,966 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:15:15,655 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:15:26,384 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:15:37,117 - INFO - Extracted data from 375 stations, including 146 new observations
+2024-09-25 23:15:47,741 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:15:50,674 - INFO - Saved the data to the DB
+2024-09-25 23:15:59,352 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:16:09,984 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:16:20,661 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:16:31,380 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:16:42,105 - INFO - Extracted data from 375 stations, including 121 new observations
+2024-09-25 23:16:52,039 - INFO - Saved the data to the DB
+2024-09-25 23:16:53,682 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:17:04,365 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:17:15,058 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:17:25,783 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:17:36,503 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:17:47,223 - INFO - Extracted data from 375 stations, including 96 new observations
+2024-09-25 23:17:53,159 - INFO - Saved the data to the DB
+2024-09-25 23:17:58,844 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:18:09,509 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:18:20,194 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:18:30,920 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:18:41,715 - INFO - Extracted data from 375 stations, including 73 new observations
+2024-09-25 23:18:52,434 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:18:54,378 - INFO - Saved the data to the DB
+2024-09-25 23:19:04,082 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:19:14,723 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:19:25,416 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:19:36,138 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:19:46,835 - INFO - Extracted data from 375 stations, including 78 new observations
+2024-09-25 23:19:55,775 - INFO - Saved the data to the DB
+2024-09-25 23:19:58,482 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:20:09,183 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:20:19,844 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:20:30,533 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:20:41,236 - INFO - Extracted data from 375 stations, including 62 new observations
+2024-09-25 23:20:51,970 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:20:56,908 - INFO - Saved the data to the DB
+2024-09-25 23:21:03,592 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:21:14,248 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:21:24,932 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:21:35,667 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:21:46,370 - INFO - Extracted data from 375 stations, including 57 new observations
+2024-09-25 23:21:57,073 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:21:59,063 - INFO - Saved the data to the DB
+2024-09-25 23:22:08,797 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:22:19,513 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:22:30,239 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:22:40,950 - INFO - Extracted data from 375 stations, including 60 new observations
+2024-09-25 23:22:51,701 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:23:00,653 - INFO - Saved the data to the DB
+2024-09-25 23:23:03,413 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:23:14,111 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:23:24,773 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:23:35,472 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:23:46,170 - INFO - Extracted data from 375 stations, including 59 new observations
+2024-09-25 23:23:56,833 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:24:01,787 - INFO - Saved the data to the DB
+2024-09-25 23:24:08,526 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:24:19,225 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:24:29,945 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:24:40,686 - INFO - Extracted data from 375 stations, including 112 new observations
+2024-09-25 23:24:51,387 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:25:02,044 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:25:04,005 - INFO - Saved the data to the DB
+2024-09-25 23:25:13,750 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:25:24,401 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:25:35,110 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:25:45,814 - INFO - Extracted data from 375 stations, including 150 new observations
+2024-09-25 23:25:56,524 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:26:05,471 - INFO - Saved the data to the DB
+2024-09-25 23:26:08,232 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:26:18,967 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:26:29,665 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:26:40,416 - INFO - Extracted data from 375 stations, including 131 new observations
+2024-09-25 23:26:51,131 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:27:01,850 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:27:06,817 - INFO - Saved the data to the DB
+2024-09-25 23:27:13,554 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:27:24,269 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:27:34,952 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:27:45,709 - INFO - Extracted data from 375 stations, including 90 new observations
+2024-09-25 23:27:56,373 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:28:07,065 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:28:09,048 - INFO - Saved the data to the DB
+2024-09-25 23:28:18,771 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:28:29,429 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:28:40,125 - INFO - Extracted data from 375 stations, including 78 new observations
+2024-09-25 23:28:50,853 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:29:01,565 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:29:10,545 - INFO - Saved the data to the DB
+2024-09-25 23:29:13,274 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:29:23,987 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:29:34,699 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:29:45,430 - INFO - Extracted data from 375 stations, including 78 new observations
+2024-09-25 23:29:56,149 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:30:06,885 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:30:11,854 - INFO - Saved the data to the DB
+2024-09-25 23:30:18,606 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:30:29,322 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:30:40,028 - INFO - Extracted data from 375 stations, including 63 new observations
+2024-09-25 23:30:50,778 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:31:01,482 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:31:12,207 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:31:14,197 - INFO - Saved the data to the DB
+2024-09-25 23:31:23,908 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:31:34,651 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:31:45,453 - INFO - Extracted data from 375 stations, including 56 new observations
+2024-09-25 23:31:56,168 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:32:06,890 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:32:15,874 - INFO - Saved the data to the DB
+2024-09-25 23:32:18,614 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-25 23:32:29,337 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:21:10,020 - INFO - Starting real time extraction pipeline
+2024-09-26 00:21:20,813 - INFO - Extracted data from 375 stations, including 374 new observations
+2024-09-26 00:21:31,567 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:21:42,259 - INFO - Extracted data from 375 stations, including 60 new observations
+2024-09-26 00:21:52,984 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:22:03,695 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:22:11,674 - INFO - Saved the data to the DB
+2024-09-26 00:22:15,427 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:22:26,121 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:22:36,775 - INFO - Extracted data from 375 stations, including 49 new observations
+2024-09-26 00:22:47,466 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:23:23,243 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:23:25,298 - INFO - Saved the data to the DB
+2024-09-26 00:23:34,070 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:23:44,762 - INFO - Extracted data from 375 stations, including 53 new observations
+2024-09-26 00:23:55,468 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:24:06,214 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:24:16,923 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:24:26,924 - INFO - Saved the data to the DB
+2024-09-26 00:24:28,691 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:24:39,449 - INFO - Extracted data from 375 stations, including 47 new observations
+2024-09-26 00:24:50,180 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:25:00,886 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:25:11,706 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:25:22,426 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:25:28,422 - INFO - Saved the data to the DB
+2024-09-26 00:25:34,180 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:25:44,884 - INFO - Extracted data from 375 stations, including 131 new observations
+2024-09-26 00:25:55,727 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:26:06,528 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:26:17,306 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:26:28,043 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:26:30,080 - INFO - Saved the data to the DB
+2024-09-26 00:26:38,791 - INFO - Extracted data from 375 stations, including 127 new observations
+2024-09-26 00:26:49,499 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:27:00,219 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:27:10,951 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:27:21,651 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:27:31,653 - INFO - Saved the data to the DB
+2024-09-26 00:27:33,402 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:27:44,226 - INFO - Extracted data from 375 stations, including 99 new observations
+2024-09-26 00:27:54,918 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:28:05,658 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:28:16,444 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:28:28,199 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:28:33,199 - INFO - Saved the data to the DB
+2024-09-26 00:28:39,029 - INFO - Extracted data from 375 stations, including 81 new observations
+2024-09-26 00:28:49,726 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:29:00,450 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:29:11,164 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:29:21,878 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:29:32,600 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:29:34,682 - INFO - Saved the data to the DB
+2024-09-26 00:29:43,405 - INFO - Extracted data from 375 stations, including 65 new observations
+2024-09-26 00:29:54,123 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:30:04,859 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:30:15,587 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:30:26,287 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:30:36,299 - INFO - Saved the data to the DB
+2024-09-26 00:30:38,104 - INFO - Extracted data from 375 stations, including 72 new observations
+2024-09-26 00:30:48,843 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:30:59,556 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:31:10,276 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:31:21,000 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:31:31,712 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:31:37,730 - INFO - Saved the data to the DB
+2024-09-26 00:31:42,434 - INFO - Extracted data from 375 stations, including 58 new observations
+2024-09-26 00:31:53,154 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:32:03,876 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:32:14,592 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:32:25,318 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:32:36,030 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:32:39,039 - INFO - Saved the data to the DB
+2024-09-26 00:32:46,757 - INFO - Extracted data from 375 stations, including 69 new observations
+2024-09-26 00:32:57,471 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:33:08,184 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:33:18,899 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:33:29,623 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:33:40,651 - INFO - Saved the data to the DB
+2024-09-26 00:33:41,364 - INFO - Extracted data from 375 stations, including 41 new observations
+2024-09-26 00:33:52,151 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:34:02,881 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:34:13,599 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:34:24,330 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:34:35,125 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:34:42,159 - INFO - Saved the data to the DB
+2024-09-26 00:34:45,859 - INFO - Extracted data from 375 stations, including 38 new observations
+2024-09-26 00:34:56,582 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:35:07,312 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:35:18,115 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:35:28,856 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:35:39,648 - INFO - Extracted data from 375 stations, including 122 new observations
+2024-09-26 00:35:43,674 - INFO - Saved the data to the DB
+2024-09-26 00:35:50,380 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:36:01,104 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:36:11,815 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:36:22,530 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:36:33,251 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:36:43,981 - INFO - Extracted data from 375 stations, including 123 new observations
+2024-09-26 00:36:46,041 - INFO - Saved the data to the DB
+2024-09-26 00:36:54,798 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:37:05,592 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:37:16,333 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:37:27,060 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:37:37,781 - INFO - Extracted data from 375 stations, including 113 new observations
+2024-09-26 00:37:47,814 - INFO - Saved the data to the DB
+2024-09-26 00:37:49,596 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:38:00,320 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:38:11,116 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:38:21,848 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:38:32,596 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:38:43,382 - INFO - Extracted data from 375 stations, including 85 new observations
+2024-09-26 00:38:49,421 - INFO - Saved the data to the DB
+2024-09-26 00:38:54,147 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:39:04,917 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:39:15,652 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:39:26,461 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:39:37,188 - INFO - Extracted data from 375 stations, including 79 new observations
+2024-09-26 00:39:48,006 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:39:51,082 - INFO - Saved the data to the DB
+2024-09-26 00:39:58,828 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:40:09,550 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:40:20,289 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:40:31,071 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:40:41,805 - INFO - Extracted data from 375 stations, including 68 new observations
+2024-09-26 00:40:52,850 - INFO - Saved the data to the DB
+2024-09-26 00:40:53,615 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:41:04,782 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:41:15,576 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:41:26,372 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:41:37,206 - INFO - Extracted data from 375 stations, including 66 new observations
+2024-09-26 00:41:47,935 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:41:53,988 - INFO - Saved the data to the DB
+2024-09-26 00:41:58,744 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:42:09,471 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:42:20,268 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:42:31,000 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:42:41,720 - INFO - Extracted data from 375 stations, including 50 new observations
+2024-09-26 00:42:52,443 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:42:55,487 - INFO - Saved the data to the DB
+2024-09-26 00:43:03,254 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:43:13,979 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:43:24,783 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:43:35,605 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:43:46,334 - INFO - Extracted data from 375 stations, including 50 new observations
+2024-09-26 00:43:57,389 - INFO - Saved the data to the DB
+2024-09-26 00:43:58,143 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:44:08,965 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:44:19,796 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:44:30,518 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:44:41,268 - INFO - Extracted data from 375 stations, including 49 new observations
+2024-09-26 00:44:52,036 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:44:59,089 - INFO - Saved the data to the DB
+2024-09-26 00:45:02,855 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:45:13,593 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:45:24,335 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:45:35,115 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:45:45,927 - INFO - Extracted data from 375 stations, including 97 new observations
+2024-09-26 00:45:56,669 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:46:00,721 - INFO - Saved the data to the DB
+2024-09-26 00:46:07,907 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:46:18,642 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:46:29,417 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:46:40,238 - INFO - Extracted data from 375 stations, including 134 new observations
+2024-09-26 00:46:51,058 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:47:02,120 - INFO - Saved the data to the DB
+2024-09-26 00:47:02,878 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:47:13,614 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:47:24,414 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:47:35,146 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:47:45,904 - INFO - Extracted data from 375 stations, including 124 new observations
+2024-09-26 00:47:56,673 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:48:03,736 - INFO - Saved the data to the DB
+2024-09-26 00:48:07,438 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:48:18,214 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:48:28,944 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:48:39,756 - INFO - Extracted data from 375 stations, including 76 new observations
+2024-09-26 00:48:50,584 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:49:01,396 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:49:05,464 - INFO - Saved the data to the DB
+2024-09-26 00:49:12,229 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:49:23,034 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:49:33,768 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:49:44,570 - INFO - Extracted data from 375 stations, including 67 new observations
+2024-09-26 00:49:55,311 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:50:06,110 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:50:08,192 - INFO - Saved the data to the DB
+2024-09-26 00:50:16,955 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:50:27,690 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:50:38,472 - INFO - Extracted data from 375 stations, including 69 new observations
+2024-09-26 00:50:49,289 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:51:00,133 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:51:10,201 - INFO - Saved the data to the DB
+2024-09-26 00:51:12,051 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:51:22,866 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:51:33,661 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:51:44,406 - INFO - Extracted data from 375 stations, including 45 new observations
+2024-09-26 00:51:55,208 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:52:06,025 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:52:12,089 - INFO - Saved the data to the DB
+2024-09-26 00:52:16,863 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:52:27,606 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:52:38,384 - INFO - Extracted data from 375 stations, including 58 new observations
+2024-09-26 00:52:49,199 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:52:59,967 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:53:10,680 - INFO - Extracted data from 375 stations, including 0 new observations
+2024-09-26 00:53:13,756 - INFO - Saved the data to the DB
