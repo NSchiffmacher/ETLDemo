@@ -13,3 +13,5 @@ def get_stations_informations() -> list[dict[str, Any]]:
     url = f'https://api.jcdecaux.com/vls/v1/stations?contract={CONTRACT_NAME}&apiKey={JCDECAUX_API_TOKEN}'
     response = requests.get(url)
     return response.json()
+
+
