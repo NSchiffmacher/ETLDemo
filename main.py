@@ -17,7 +17,7 @@ def exit_handler(sig, frame):
 
 def real_time_extraction_pipeline() -> None:
     all_stations_raw = extract.get_stations_informations()
-    all_stations = transform.real_time_data_to_station_information(all_stations_raw)
+    all_stations = transform.real_time_data_to_station_information(store, all_stations_raw)
     new_data_count = store.save_real_time_stations_summaries(all_stations)
 
     logging.info(f'Extracted data from {len(all_stations_raw)} stations, including {new_data_count} new observations')

@@ -6,33 +6,59 @@ import pymongo
 
 
 class MongoDBStore:
-    def __init__(self, path: str):
-        pass
+    def __init__(self):
+        self.mongo_client = pymongo.MongoClient()
+        self.database = self.mongo_client['velouze']
+        self.real_time_data_collection = self.database['real_time_data']
+        self.station_information_collection = self.database['station_information']
     
     def commit(self) -> None:
-        # Saves the data to the DB
+        # Saves the data to the DB, not needed here
         pass        
 
     def close(self) -> None:
-        pass
+        self.mongo_client.close()
 
-    def save_real_time_stations_summaries(self, all_stations_summaries: list[dict[str, Any]]) -> int:
+    def append_stations_summaries_unchecked(self, all_stations_summaries: list[dict[str, Any]]) -> int:
         """
         Save the real time data of the stations in the store, returning the number of new data added
         """
-        pass
+        self.real_time_data_collection.insert_many(all_stations_summaries)
+        return len(all_stations_summaries)
 
     def get_station_real_time_data(self, station_id: int) -> pd.DataFrame:
         """
         Get the data of a specific station
         """
-        pass
+        return pd.DataFrame(self.real_time_data_collection.find({'number': station_id}))
+
+    def get_one_station_last_state(self, station_id : int) -> dict[str, Any]:
+        """
+        Get the last state of a specific station
+        """
+        elements = list(self.real_time_data_collection.find({'number': station_id}).sort('last_update', pymongo.DESCENDING).limit(1))
+        if len(elements) == 0:
+            return None
+        return elements[0]
+
+    def get_station_information_by_id(self, station_id: int) -> dict[str, Any] | None:
+        """
+        Get the information of a specific station
+        """
+        return self.station_information_collection.find_one({'number': station_id})
+
+    def get_all_stations_id(self) -> list[int]:
+        """
+        Get all the stations IDs
+        """
+        return self.station_information.distinct('number')
+    
 
     def get_all_stations_real_time_data(self) -> pd.DataFrame:
         """
         Get the data of all the stations
         """
-        pass
+        return pd.DataFrame(self.real_time_data_collection.find())
 
 
 class JSONStore:
@@ -100,5 +126,6 @@ class JSONStore:
         df.set_index('last_update', inplace=True)
         return df
 
-def DefaultStore() -> JSONStore:
-    return JSONStore('data/real_time.json')
+def DefaultStore() -> MongoDBStore:
+    return MongoDBStore()
+    #return JSONStore('data/real_time.json')
