@@ -22,6 +22,7 @@ class MongoDBStore:
     def append_stations_summaries_unchecked(self, all_stations_summaries: list[dict[str, Any]]) -> int:
         """
         Save the real time data of the stations in the store, returning the number of new data added
+        "unchecked" means that the data is saved without checking if it already exists
         """
         self.real_time_data_collection.insert_many(all_stations_summaries)
         return len(all_stations_summaries)

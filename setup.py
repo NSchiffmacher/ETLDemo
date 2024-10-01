@@ -15,6 +15,7 @@ if __name__ == '__main__':
     real_time_data_collection = database['real_time_data']
     station_information = database['station_information']
     station_information.drop()
+    real_time_data_collection.drop()
     
     station_information = database['station_information']
     with open(STATION_JSON_PATH, 'r') as file:
