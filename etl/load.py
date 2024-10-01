@@ -2,6 +2,37 @@ import json
 from typing import Any
 import pandas as pd
 from datetime import datetime
+import pymongo
+
+
+class MongoDBStore:
+    def __init__(self, path: str):
+        pass
+    
+    def commit(self) -> None:
+        # Saves the data to the DB
+        pass        
+
+    def close(self) -> None:
+        pass
+
+    def save_real_time_stations_summaries(self, all_stations_summaries: list[dict[str, Any]]) -> int:
+        """
+        Save the real time data of the stations in the store, returning the number of new data added
+        """
+        pass
+
+    def get_station_real_time_data(self, station_id: int) -> pd.DataFrame:
+        """
+        Get the data of a specific station
+        """
+        pass
+
+    def get_all_stations_real_time_data(self) -> pd.DataFrame:
+        """
+        Get the data of all the stations
+        """
+        pass
 
 
 class JSONStore:
