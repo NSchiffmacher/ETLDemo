@@ -3,11 +3,15 @@ from typing import Any
 import pandas as pd
 from datetime import datetime
 import pymongo
+from pymongo.server_api import ServerApi
+import os
 
+MONGODB_PSW = os.environ['MONGODB_PSW']
 
 class MongoDBStore:
     def __init__(self):
-        self.mongo_client = pymongo.MongoClient()
+        uri = f"mongodb+srv://nathan:{MONGODB_PSW}@veloutoulouse.q2ceg.mongodb.net/?retryWrites=true&w=majority&appName=VelouToulouse"
+        self.mongo_client = pymongo.MongoClient(uri, server_api=ServerApi('1'))
         self.database = self.mongo_client['velouze']
         self.real_time_data_collection = self.database['real_time_data']
         self.station_information_collection = self.database['station_information']

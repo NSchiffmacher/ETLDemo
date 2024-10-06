@@ -1,2 +1,25 @@
 2024-10-01 16:02:48,750 - INFO - Starting real time extraction pipeline
 2024-10-01 16:02:59,634 - INFO - Extracted data from 378 stations, including 377 new observations
+2024-10-06 23:00:01,469 - INFO - Starting real time extraction pipeline
+2024-10-06 23:00:21,854 - INFO - Extracted data from 379 stations, including 379 new observations
+2024-10-06 23:01:36,067 - INFO - Starting real time extraction pipeline
+2024-10-06 23:01:53,957 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:02:11,731 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:02:29,361 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:02:36,362 - INFO - Saved the data to the DB
+2024-10-06 23:02:47,440 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:03:05,462 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:03:23,228 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:03:41,208 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:03:42,208 - INFO - Saved the data to the DB
+2024-10-06 23:03:58,909 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:04:16,678 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:04:34,713 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:04:42,715 - INFO - Saved the data to the DB
+2024-10-06 23:04:52,579 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:05:10,852 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:05:28,668 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:05:47,062 - INFO - Extracted data from 379 stations, including 0 new observations
+2024-10-06 23:05:48,063 - INFO - Saved the data to the DB
+2024-10-06 23:05:51,435 - INFO - Closing connection to the DB
+2024-10-06 23:05:51,455 - INFO - Stopping real time extraction pipeline
