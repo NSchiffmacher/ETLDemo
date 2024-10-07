@@ -18,7 +18,7 @@ class MongoDBStore:
         self.last_updates = {} # Stores the last update times of each station
     
     def commit(self) -> None:
-        # Saves the data to the DB, not needed here
+        # Saves the data to the DB, not needed here : legacy from the JSONStore for demonstration and compatibility
         pass        
 
     def close(self) -> None:
@@ -40,7 +40,10 @@ class MongoDBStore:
         """
         Get the data of a specific station
         """
-        return pd.DataFrame(self.real_time_data_collection.find({'number': station_id}))
+        df = pd.DataFrame(self.real_time_data_collection.find({'number': station_id}))
+        if not df.empty:
+            df.set_index('last_update', inplace=True)
+        return df
 
     def get_one_station_last_update(self, station_id : int) -> dict[str, Any]:
         """
@@ -68,10 +71,13 @@ class MongoDBStore:
         """
         Get the data of all the stations
         """
-        return pd.DataFrame(self.real_time_data_collection.find())
+        df = pd.DataFrame(self.real_time_data_collection.find())
+        if not df.empty:
+            df.set_index('last_update', inplace=True)
+        return df
 
 
-class JSONStore:
+class JSONStore: # Was used to test the scripts before the MongoDBStore was implemented
     def __init__(self, path: str):
         self.path = path
         

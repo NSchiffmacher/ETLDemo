@@ -76,15 +76,18 @@ pip install -r requirements.txt
 ### 4. Setup the project (DB and log files)
 
 ```bash
-python scripts/setup.py
+python setup.py
 ```
 
-### 5. Setup your JCDecaux API KEY
+Note: The MongoDB setup is currently disabled to prevent erasing all the data on the MongoDB cluster
+
+### 5. Setup your JCDecaux API KEY and MongoDB Cluster password
 
 An API key is required. As such, you need to create an account on the JCDecaux website and get an API key. Once you have your API key, you can set it as an environment variable.
 
 ```bash
 export JCDECAUX_API_KEY="your_api_key"
+export MONGODB_PSW="your_mongodb_psw"
 ```
 
 ## Usage 
@@ -104,7 +107,7 @@ A log of what the tool is doing is available in `logs/real_time_extraction.log`.
 To view the data, the following commands are available. For example, the station "ISAE-CAMPUS" as a station_id of 224.
 
 ```bash
-python visualize.py all # Will display all the data for all the stations
+python visualize.py all # Will display all the data for all the stations (Not recommended as it might take quite a long time because of the amount of data to download, ~1/2 minutes)
 python visualize.py station [station_id] # Will display the available bikes and total number of bike stands for station [station_id]
 python visualize.py station [station_id] --hide-total # Will display only the available bikes for station [station_id]
 ```

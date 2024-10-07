@@ -1,4 +1,5 @@
 import argparse
+import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 from etl.load import DefaultStore
@@ -31,7 +32,8 @@ def plot_all() -> None:
     df_data = store.get_all_stations_real_time_data()
     if df_data.empty:
         raise ValueError('No data found, please run the ETL process first')
-    fig = px.line(df_data, x=df_data.index, y='available_bikes', color='number', title='Real time data for all stations')
+    fig = px.line(df_data, x=df_data.index, y='available_bikes', color='number', title='Real time data for all stations', 
+                  category_orders={'number': np.sort(df_data['number'].unique())})
     fig.show()
 
 if __name__ == "__main__":
