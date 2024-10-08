@@ -79,12 +79,15 @@ pip install -r requirements.txt
 python scripts/setup.py
 ```
 
-### 5. Setup your JCDecaux API KEY
+Note: The MongoDB setup is currently disabled to prevent erasing all the data on the MongoDB cluser
+
+### 5. Setup your JCDecaux API KEY and MongoDB Cluster password
 
 An API key is required. As such, you need to create an account on the JCDecaux website and get an API key. Once you have your API key, you can set it as an environment variable.
 
 ```bash
 export JCDECAUX_API_KEY="your_api_key"
+export MONGODB_PSW="your_mongodb_psw"
 ```
 
 ## Usage 
