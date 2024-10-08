@@ -17,7 +17,7 @@ class MongoDBStore:
         self.station_information_collection = self.database['station_information']
     
     def commit(self) -> None:
-        # Saves the data to the DB, not needed here
+        # Saves the data to the DB, not needed here : legacy from the JSONStore for demonstration and compatibility
         pass        
 
     def close(self) -> None:
@@ -72,7 +72,7 @@ class MongoDBStore:
         return df
 
 
-class JSONStore:
+class JSONStore: # Was used to test the scripts before the MongoDBStore was implemented
     def __init__(self, path: str):
         self.path = path
         
